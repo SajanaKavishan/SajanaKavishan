@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Sajana Kavishan</h1>
-<h3 align="center">AI Specialization IT Undergraduate | Full-Stack & AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
