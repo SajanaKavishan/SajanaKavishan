@@ -18,19 +18,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 I'm an **Information Technology undergraduate specializing in Artificial Intelligence at SLIIT**
-- 💡 Interested in **AI/ML, Full-Stack Development, UI/UX, and Software Engineering**
-- 🛠️ I enjoy building **real-world software solutions** that combine clean frontend design, reliable backend systems, and practical features
-- 🌱 Currently improving my skills in **React, Node.js, Spring Boot, REST APIs, Databases, and Machine Learning**
-- 🎯 My goal is to become a strong **AI-focused Software Engineer**
+- I'm an **Information Technology undergraduate specializing in Artificial Intelligence at SLIIT**
+- Interested in **AI/ML, Full-Stack Development, UI/UX, and Software Engineering**
+- I enjoy building **real-world software solutions** that combine clean frontend design, reliable backend systems, and practical features
+- Currently improving my skills in **React, Node.js, Spring Boot, REST APIs, Databases, and Machine Learning**
+- My goal is to become a strong **AI-focused Software Engineer**
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
-### 🛒 Supermarket Web POS & AI Demand Forecasting System
+### Supermarket Web POS & AI Demand Forecasting System
 A web-based POS, inventory, reorder, and analytics system with AI-powered demand forecasting for supermarkets.
 
 **Highlights:**
@@ -43,7 +43,7 @@ A web-based POS, inventory, reorder, and analytics system with AI-powered demand
 
 ---
 
-### 💇 Salon DEES Management System
+### Salon DEES Management System
 A modern salon management web application with booking, dashboards, customer flows, and a clean luxury UI.
 
 **Highlights:**
@@ -93,7 +93,7 @@ A modern salon management web application with booking, dashboards, customer flo
 
 ---
 
-## 📌 What I’m Currently Learning
+##  What I’m Currently Learning
 
 - Advanced React and component architecture
 - REST API development with Node.js / Express
@@ -103,7 +103,7 @@ A modern salon management web application with booking, dashboards, customer flo
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sajana-kavishan-35621b353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -119,7 +119,7 @@ A modern salon management web application with booking, dashboards, customer flo
 
 ---
 
-## ✨ Quick Note
+## Quick Note
 
 I’m passionate about building useful software, learning continuously, and improving both my development and problem-solving skills through real projects.
 
