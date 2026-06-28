@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/SajanaKavishan">
     <img src="https://komarev.com/ghpvc/?username=SajanaKavishan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
@@ -26,6 +26,10 @@
 - My goal is to become a strong **AI-focused Software Engineer**
 
 ---
+
+<details> <summary><b>More About Me</b></summary>
+
+<br>
 
 ## Featured Projects
 
@@ -115,6 +119,8 @@ A modern salon management web application with booking, dashboards, customer flo
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+
+</details>
 
 ---
 
